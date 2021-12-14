@@ -1,0 +1,2 @@
+# marshall-ai-ble-audio-broker
+An edge capable proxy device that brokers BLE audio signals towards EMDC over 4g/5g. The purpose of the device is to be able to balance energy consumption in the audio sensor network while maintaining modularity in large scale field deployments. The device is composed of COTS HW parts and accompanying software. This repository includes documentation and software for the described device.
